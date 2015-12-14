@@ -64,6 +64,7 @@ public class SquareTest {
         result = instance.square(n);
         assertEquals(expResult, result);
         
+        
     }
     
 }
