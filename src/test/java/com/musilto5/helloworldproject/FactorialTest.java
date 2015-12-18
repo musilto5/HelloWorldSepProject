@@ -57,6 +57,8 @@ public class FactorialTest {
         result = instance.getFactorial(n);
         assertEquals(expResult, result);
         
+        fail("Simulated fail");
+        
     }
     
 }
